@@ -1,3 +1,3 @@
 # SemanaTecAnalitica
 SemanaTec
-Cambios en readme- main
+Cambios en readme- maingrgw
